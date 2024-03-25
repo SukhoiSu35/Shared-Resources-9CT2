@@ -4,4 +4,4 @@ Hey y'all this repository has been made so that we can share anything code relat
 3. A data types notes
 4. Answers to example questions
 
-and if any of you guys need help feel free to message me: on github, on discord(@willtolomys), on email(william.coote5@education.nsw.gov.au) or anything else
+and if any of you guys need help feel free to message me: on github, on discord(@willtolomys), on email(william.coote5@education.nsw.gov.au) or anything else and dm @.itsdark_ for more help in coding
